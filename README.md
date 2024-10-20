@@ -1,3 +1,3 @@
 # Remote Agile Toolbox Application
 
-Docker compose scripts to run RAT application
+Scripts for running and setting up the RAT application.
